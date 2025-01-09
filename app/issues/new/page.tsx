@@ -2,7 +2,6 @@
 
 import { TextField, Button, TextArea, Callout } from '@radix-ui/themes'
 import { useForm, Controller } from 'react-hook-form'
-import SimpleMDE from "react-simplemde-editor";
 import "easymde/dist/easymde.min.css";
 import axios from 'axios'
 import { useRouter } from 'next/navigation';
